@@ -5,7 +5,7 @@
 
 ## Dependencies
 
-Currenty, elemental.js depends on jQuery, we'll try and refactor these out, but in this early stage you'll need those too. Sorry.
+- jQuery
 
 ## Rails Gem
 
