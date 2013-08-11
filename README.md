@@ -129,4 +129,4 @@ Fork this project and create a new branch. Make the code changes including tests
 
 # Next Steps
 
-We will look to add common behaviors and refactor out the dependencies on jQuery and Underscore. We think it'd be better to create a separate project for common behaviors using different libraries, i.e. elemental-jquery.
+We will look to add common behaviors; we think it'd be better to create a separate project for these behaviors.
